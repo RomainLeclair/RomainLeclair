@@ -17,12 +17,12 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Python" width="26px" src="python.jpg" />]
-[<img align="left" alt="Flask" width="26px" src="Flask.png" />]
-[<img align="left" alt="TensorFlow" width="26px" src="TF.38c174d8.svg" />]
-[<img align="left" alt="Keras" width="26px" src="Keras.png" />]
-[<img align="left" alt="Office" width="26px" src="office.png" />]
-[<img align="left" alt="R" width="26px" src="R.jpg" />]
+[<img align="left" alt="Python" width="26px" src="https://github.com/RomainLeclair/RomainLeclair/blob/master/python.jpg" />]
+[<img align="left" alt="Flask" width="26px" src="https://github.com/RomainLeclair/RomainLeclair/blob/master/Flask.png" />]
+[<img align="left" alt="TensorFlow" width="26px" src="https://github.com/RomainLeclair/RomainLeclair/blob/master/TF.38c174d8.svg" />]
+[<img align="left" alt="Keras" width="26px" src="https://github.com/RomainLeclair/RomainLeclair/blob/master/Keras.png" />]
+[<img align="left" alt="Office" width="26px" src="https://github.com/RomainLeclair/RomainLeclair/blob/master/office.png" />]
+[<img align="left" alt="R" width="26px" src="https://github.com/RomainLeclair/RomainLeclair/blob/master/R.jpg" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
