@@ -17,12 +17,12 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Python" width="26px" src="static/python.jpg" />]
-[<img align="left" alt="Flask" width="26px" src="static/Flask.png" />]
-[<img align="left" alt="TensorFlow" width="26px" src="static/TF.38c174d8.svg" />]
-[<img align="left" alt="Keras" width="26px" src="static/Keras.png" />]
-[<img align="left" alt="Office" width="26px" src="static/office.png" />]
-[<img align="left" alt="R" width="26px" src="static/R.jpg" />]
+[<img align="left" alt="Python" width="26px" src="python.jpg" />]
+[<img align="left" alt="Flask" width="26px" src="Flask.png" />]
+[<img align="left" alt="TensorFlow" width="26px" src="TF.38c174d8.svg" />]
+[<img align="left" alt="Keras" width="26px" src="Keras.png" />]
+[<img align="left" alt="Office" width="26px" src="office.png" />]
+[<img align="left" alt="R" width="26px" src="R.jpg" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
