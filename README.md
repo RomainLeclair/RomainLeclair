@@ -4,7 +4,7 @@
 
 ## I'm a Junior Data Scientist 
 - 🔭 I am currently looking for a position as a data scientist
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 🥅 2020 Goals: Learn more about ML and AI
 
 
