@@ -2,10 +2,10 @@
 ### Hi there, I'm Romain Leclair - [My personal Website](https://romainleclair.github.io/Personal-Website/)
 
 
-## I'm a Junior Data Scientist 
-- 🔭 I am currently looking for a position as a data scientist
+## I'm a Junior Data Engineer
+- 🔭 I am currently working as a Data Engineer at ANTAI.
 - 🌱 I’m currently learning everything 
-- 🥅 2020 Goals: Learn more about ML and AI
+- 🥅 2020 Goals: Learn more about ML, DataEngineering and Optimisation
 
 
 ### Connect with me:
